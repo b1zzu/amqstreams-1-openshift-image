@@ -59,4 +59,4 @@ osbs:
         - x86_64
   repository:
     name: containers/amqstreams-operator
-    branch: private-amqstreams-1.5-rhel-7
+    branch: private-managed-kafka-release
