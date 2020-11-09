@@ -58,5 +58,5 @@ osbs:
         only:
         - x86_64
   repository:
-    name: containers/mk-strimzi-operator
-    branch: mk-release-rhel-7
+    name: containers/amqstreams-operator
+    branch: private-managed-kafka-release
